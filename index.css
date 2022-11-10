@@ -81,9 +81,10 @@ main{
 .cat-prev__access-bt:hover{
     cursor: pointer;
     background-color: transparent;
+}
+.cat-prev__access-bt:hover .cat-prev__access-bt a{
     color: var(--transparent-white) !important;
 }
-
 
 .cat-prev__access-bt a{
     text-decoration: none;
