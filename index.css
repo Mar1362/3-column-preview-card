@@ -122,8 +122,7 @@ main{
         padding: 0%;
         margin-bottom: 0;
         padding: 8% 5% 2% 5% ;
-        max-width: 200px;
-        position: relative;
+        max-width: 250px;
     }
 
     .cat-prev img, .cat-prev__title, .cat-prev__access-bt{
