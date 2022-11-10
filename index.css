@@ -84,13 +84,17 @@ main{
     color: var(--transparent-white) !important;
 }
 
-.cat-prev--first .cat-prev__access-bt{
+
+.cat-prev__access-bt a{
+    text-decoration: none;
+}
+.cat-prev--first .cat-prev__access-bt a{
     color: var(--bright--orange);
 }
-.cat-prev--second .cat-prev__access-bt{
+.cat-prev--second .cat-prev__access-bt a{
     color: var(--dark-cyan);
 }
-.cat-prev--third .cat-prev__access-bt{
+.cat-prev--third .cat-prev__access-bt a{
     color: var(--very-dark-cyan);
 }
 
