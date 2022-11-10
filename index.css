@@ -82,7 +82,7 @@ main{
     cursor: pointer;
     background-color: transparent;
 }
-.cat-prev__access-bt:hover .cat-prev__access-bt a{
+.cat-prev__access-bt:hover a{
     color: var(--transparent-white) !important;
 }
 
